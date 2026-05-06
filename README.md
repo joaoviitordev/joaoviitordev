@@ -1,7 +1,11 @@
 # Olá, eu sou o João Vitor! 👋
 
 ### Desenvolvedor Full Stack & Estudante de ADS
-Sou um desenvolvedor apaixonado por criar interfaces de alto impacto visual e soluções escaláveis no back-end. Atualmente, estou em transição para o ecossistema Full Stack, unindo o refinamento do Front-end com a robustez do Back-end.
+Minha jornada na tecnologia começou em 2025, movida pela curiosidade de entender como as interfaces ganham vida. Desde então, venho mergulhando no ecossistema do desenvolvimento web, partindo da base de HTML, CSS e JavaScript para a criação de experiências altamente interativas utilizando GSAP e Three.js.
+
+Atualmente, estou expandindo meus horizontes como desenvolvedor Full-Stack. Meu foco está na construção de aplicações robustas e escaláveis com React, TypeScript e Next.js, integrando front-end refinado a back-ends eficientes e bancos de dados. Acredito que o bom software nasce da união entre performance e design, por isso utilizo o Figma para prototipagem e experiências de UI/UX antes mesmo de escrever a primeira linha de código.
+
+Além disso, integro Inteligência Artificial no meu fluxo de trabalho para otimizar processos de desenvolvimento e acelerar meu aprendizado constante. Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, onde também desenvolvo meu raciocínio lógico com linguagens como C e Python.
 
 ---
 
@@ -16,12 +20,6 @@ Sou um desenvolvedor apaixonado por criar interfaces de alto impacto visual e so
 - **Animações/UI:** GSAP, Three.js, Bento Grids, UX/UI Design.
 - **Back-end & Ferramentas:** Node.js, Vercel, Git/GitHub, Nuvemshop.
 - **Estética Preferida:** Minimalismo, Tipografia (Space Mono / Poppins) e Dark Mode.
-
-### 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dark" />
-</p>
 
 ---
 
