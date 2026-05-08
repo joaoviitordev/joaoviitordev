@@ -1,4 +1,4 @@
-# Olá, eu sou o João Vitor! 👋
+# Olá, eu sou João Vitor! 👋
 
 ### Desenvolvedor Full Stack & Estudante de ADS
 Minha jornada na tecnologia começou em 2025, movida pela curiosidade de entender como as interfaces ganham vida. Desde então, venho mergulhando no ecossistema do desenvolvimento web, partindo da base de HTML, CSS e JavaScript para a criação de experiências altamente interativas utilizando GSAP e Three.js.
