@@ -58,9 +58,17 @@ Sistema de agendamento para clínicas — gestão de horários, pacientes e prof
 Plataforma de controle de estoque para pequenos negócios.
 `Next.js` `TypeScript` `PostgreSQL` `Supabase`
 
+**📦 Barber App**
+SaaS de agendamento de barbearias.
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+
 > 🔗 Riff: https://github.com/joaoviitordev/riff
+
 > 🔗 Doutor Agenda: https://github.com/joaoviitordev/doutor-agenda
+
 > 🔗 Stockly: https://github.com/joaoviitordev/stockly
+
+> 🔗 Barber App: https://github.com/joaoviitordev/barber-app
 
 ---
 
