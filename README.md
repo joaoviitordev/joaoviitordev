@@ -8,7 +8,7 @@
 
 ---
 
-### 💭 Sobre mim
+### Sobre mim
 
 Comecei minha jornada em tecnologia em 2025, motivado pela curiosidade de entender como as interfaces ganham vida — da base em HTML, CSS e JavaScript até experiências mais imersivas com GSAP e Three.js. Hoje meu foco é o desenvolvimento **Full Stack**: construir aplicações robustas e escaláveis, unindo um front-end refinado a back-ends bem estruturados e bancos de dados sólidos.
 
@@ -16,11 +16,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio, onde ta
 
 Integro Inteligência Artificial (Claude Code, Antigravity) ao meu fluxo de trabalho para acelerar o aprendizado e manter um padrão de qualidade alto no código que produzo. Acredito que bom software nasce da união entre performance e design, por isso também prototipo no Figma antes de escrever a primeira linha de código.
 
-📩 **Recrutador(a)?** Vamos conversar — estou disponível para estágio ou vaga júnior em desenvolvimento Full Stack.
-
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 **Front-end**
 
@@ -44,21 +42,21 @@ Integro Inteligência Artificial (Claude Code, Antigravity) ao meu fluxo de trab
 
 ---
 
-### 🌟 Projetos em destaque
+### Projetos em destaque
 
-**🎵 Riff**
+**Riff**
 Rede social de música com autenticação OAuth via Spotify, exibindo em tempo real o que os usuários estão ouvindo.
 `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL/Supabase` `NextAuth` `TanStack Query`
 
-**🩺 Doutor Agenda**
+**Doutor Agenda**
 Sistema de agendamento para clínicas — gestão de horários, pacientes e profissionais de saúde.
 `Next.js` `TypeScript` `PostgreSQL` `Supabase`
 
-**📦 Stockly**
+**Stockly**
 Plataforma de controle de estoque para pequenos negócios.
 `Next.js` `TypeScript` `PostgreSQL` `Supabase`
 
-**📦 Barber App**
+**Barber App**
 SaaS de agendamento de barbearias.
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
@@ -72,7 +70,7 @@ SaaS de agendamento de barbearias.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=joaoviitordev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
@@ -81,7 +79,7 @@ SaaS de agendamento de barbearias.
 
 ---
 
-### 📫 Conecte-se comigo
+### Conecte-se comigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joaovitor-faria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
